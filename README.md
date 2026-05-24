@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeikoDaub
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in SaaS development
+- 🌱 I’m currently learning Agentic AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
